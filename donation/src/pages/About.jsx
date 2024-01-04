@@ -106,18 +106,7 @@ function About() {
                         </div>
                     </div>
 
-                    <div class="sub-box">
-                        <img class="sub-img" src={sabbir} alt="Image" />
-                        <h5>Md. Sabbir Ahmed</h5>
-                        <div >
-                            <p class="pra">BSc. in Computer Science and Engineering. <br />
-                                Batch: 202</p>
-                            <p className='midpoint'>
-                                <a href="mailto:sabbir@gmail.com">sabbir@gmail.com</a><br />
-                                <a href="tel:+88013654654">+880 136565464</a>
-                            </p>
-                        </div>
-                    </div>
+                    
 
                 </div>
             </div>
